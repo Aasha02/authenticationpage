@@ -1,0 +1,17 @@
+.input1 {
+  border: 1px solid var(--gray-03);
+  outline: 0;
+  font-family: var(--regular-16-24);
+  font-size: var(--regular-16-24-size);
+  background-color: transparent;
+  width: 400px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  color: var(--gray-01);
+}
